@@ -1,0 +1,49 @@
+body {
+  font-family: 'Open Sans', sans-serif;
+  color: #fff;
+  background-color: #fff;
+}
+
+.banner {
+  background-image: url("banner.jpg");
+  background-size: cover;
+  height: 200px;
+}
+
+.navbar-inverse {
+  background-color: #3487f1;
+  border-color: #3487f1;
+}
+
+.navbar-inverse .navbar-nav>li>a {
+  color: #FFFF00;
+  font-size: 16px;
+}
+
+.well {
+  background-color: #3487f1;
+  border-color: #3487f1;
+}
+
+h1 {
+  color: #FFFF00;
+  font-size: 16px;
+  font-weight: bold;
+  text-align: center;
+}
+
+a{
+  color: #fff;
+}
+
+li {
+  list-style-type: none;
+}
+
+.excellence {
+  background-image: url("excellence.jpg");
+  height: 400px;
+  background-size: contain;
+  background-repeat: no-repeat;
+  background-position: center;
+}
